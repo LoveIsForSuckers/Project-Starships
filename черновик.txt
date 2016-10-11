@@ -1,0 +1,28 @@
+Star System:
+	<HOMESTAR>
+		- scale
+		- color
+	<PLANETS 0-5>
+		- type
+		- scale
+		- color
+		- distanceToStar
+		- orbitalRadianSpeed
+	<BASES AND MOONS 0-5>
+		- type
+		- scale
+		- color
+		- orbitReference
+		- distanceToReference
+		- orbitalRadianSpeed
+	<NEBULAS CLOSE> (back2)
+		- texture
+		- opacity
+		- scale
+		- color
+	<NEBULAS FAR>
+		- texture
+		- opacity
+		- scale
+		- color
+	
