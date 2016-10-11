@@ -1,0 +1,11 @@
+## Ignore Heavy Shit and Graphics
+[Bb]itmaps/
+[Ii]co/
+[Mm]usic/
+
+*.mp3
+*.wav
+*.ico
+*.png
+*.jpg
+*.bmp
