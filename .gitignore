@@ -1,6 +1,7 @@
 ## Ignore Heavy Shit and Graphics
 [Bb]itmaps/
 [Ii]co/
+[Ii]mg/
 [Mm]usic/
 
 *.mp3
